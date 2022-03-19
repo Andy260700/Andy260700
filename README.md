@@ -33,9 +33,9 @@ feel free to connect, let's cultivate new ideas together !.
 
 
   
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Andy260700&show_icons=true&line_height=20&theme=tokyonight" />
-</p>
+</p> -->
 
 ### 📫 Connect with me
 
