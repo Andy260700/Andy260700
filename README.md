@@ -11,17 +11,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 ### 🔭 About Me
 
 * Computer science engineering undergrad at Jadavpur University.
 
-Learning Enthusiast. love innovation more than anything.
+Learning Enthusiast. loves innovation more than anything.
 
-technical skills majorly include C, C++, javascript, html, css, react-native, rust, gdScript. Comfortable with web-apps, android application, native apps (mainly frontend development). 
+Technical skills majorly include C, C++, java, javascript, html, css, rust, gdScript. Comfortable with web-apps, android application, native apps (mainly frontend development). 
 2d/3d mini game development with Godot.
 
-also practised in content writing, logo designing and e-book-formatting and designing and photography.
+Tools and framewroks mostly used are Spring boot, React, React native, Flask, Java swing, Thymleaf, Tensorflow - keras.
+
+databases used are oracledb, mongodb. comfortable in SQL.
 
 feel free to connect, let's cultivate new ideas together !.
 
@@ -42,5 +47,4 @@ feel free to connect, let's cultivate new ideas together !.
 
 </p>
 
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
