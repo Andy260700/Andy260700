@@ -2,35 +2,26 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## 👋🏾 I'm Arpan Nandi 🎓‍💻
 
-### Tools Which I Use
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></code>
-<!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+
 
 ### 🔭 About Me
 
-* Computer science engineering undergrad at Jadavpur University.
+* Computer science engineering undergraduate (grad:2023) at Jadavpur University.
 
 Learning Enthusiast. loves innovation more than anything.
 
-Technical skills majorly include C, C++, java, javascript, html, css, rust, gdScript. Comfortable with web-apps, android application, native apps (mainly frontend development). 
-2d/3d mini game development with Godot.
+My programming language skills include C, C++, Java, Javascript, Python, HTML, gdScript. My domain skills are focused on Machine learning, Deep learning, Web developement, Native application developement (mainly backend), and 2d/3d mini game development with Godot.
 
-Tools and framewroks mostly used are Spring boot, React, React native, Flask, Java swing, Thymleaf, Tensorflow - keras.
+Tools and framewroks I have mostly used are Tensorflow - keras api, pytTorch, scikit-learn, Spring boot, React, React native, Flask, Java swing, Thymleaf.
 
-databases used are oracledb, mongodb. comfortable in SQL.
+I have used databases are Oracledb, mongoDB. I am Comfortable in SQL and PL/SQL.
 
-feel free to connect, let's cultivate new ideas together !.
+In industrial internships, I have worked for developement of self service analytics services on cloud databases like BigQuery, and used tools like Google Data studio. The focus was on automating the impact analysis of data pipelines. 
 
+I have worked in several resarch projects two of which have been published in international journals, and others in the review process. These projects are all based on engineered versions of deep learning networks, implemented and applied on environmental domains like weaher forecasting, climate detection, texture classification etc.
+
+To all fellow technology enthusiasts, I must say -
+feel free to connect, let's cultivate new ideas together !
 
   
 <!-- <p align="center">
